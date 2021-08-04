@@ -6,3 +6,4 @@ The project is based on:
 - CSS
 - JavaScript
 - Normalize
+- Fancyapps plugin
